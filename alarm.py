@@ -10,9 +10,12 @@ max_wait = 5
 
 # Load the sound
 sound = pygame.mixer.Sound("alarm.wav")
-# Generate a random integer between 1 and 10
+
+
 
 while True:
+  
+  # Generate a random integer between 1 and 10
   wait_time = random.randint(min_wait, max_wait)
     
   print(f"Waiting for alarm for {wait_time} minutes...")
