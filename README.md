@@ -1,7 +1,5 @@
 # Alarm
 
-==================
-
 ### I made an alarm that goes off at random times.
 -----------------------------------------------------
 
